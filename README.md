@@ -37,29 +37,10 @@ Welcome to **Forever **, an eCommerce platform offering a wide selection of prod
 - **State Management**:
   - React Hooks and Context API for managing global state.
 
-
-
 - **Deployment**:
   - [Netlify](https://www.netlify.com/) for fast and reliable hosting.
 
-## 🚀 Getting Started
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/faisal-din/forever-eCommerce-website-
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd forever-ecom
-    ```
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
-4. Run the app:
-    ```bash
-    npm start
-    ```
 
 
 
