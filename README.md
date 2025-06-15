@@ -57,8 +57,6 @@ Welcome to **Forever**, an eCommerce platform offering a wide selection of produ
 - 💳 **Checkout System**: Secure and user-friendly payment process.
 - 📱 **Responsive Design**: Optimized for mobile, tablet, and desktop devices.
 
----
-
 ## 🛠️ Technologies Used
 
 ### 🎨 Frontend:
